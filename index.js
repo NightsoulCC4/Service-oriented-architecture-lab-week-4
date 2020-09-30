@@ -1,4 +1,4 @@
-function convertCurrency() {
+function BmiCalculator() {
     var height = document.getElementById("height").value
     var weight = document.getElementById("weight").value
     var data = '{"ht":"'+height+'","wt":"'+weight+'"}';

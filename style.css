@@ -1,9 +1,18 @@
-#container {
-    width: 400px;
-    height: 200px;
-    margin: 0px auto;
-    border: 2px solid black;
+body{
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
 }
-h1 {
-    text-align: center;
+.container {
+    background-color: aliceblue;
+    justify-items: center;
+    width: 800px;
+    height: 450px;
+    margin: 5px;
+    border: 2px;
+    border-style: dashed;
+    border-color: black;
+    
 }
+
